@@ -6,7 +6,7 @@ SCRIPTING LANGUAGE
 
 Patrick Willison
 
-Willispd@mail.uc.edu v1.2.0
+Willispd@mail.uc.edu
 
 Due: 3/10/2020
 
