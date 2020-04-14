@@ -1,11 +1,17 @@
 # WillispdScriptingProject2
 
 Project 2
+
 SCRIPTING LANGUAGE
+
 Patrick Willison
+
 Willispd@mail.uc.edu v1.2.0
+
 Due: 3/10/2020
+
 Resubmit: 4/14/2020
+
 
 What does the script do?
 
